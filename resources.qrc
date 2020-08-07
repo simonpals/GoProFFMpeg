@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.css</file>
+        <file>fonts/open_sans.ttf</file>
+        <file>fonts/open_sans_bold.ttf</file>
+        <file>fonts/open_sans_semibold.ttf</file>
+        <file>images/arrow_sans_down.png</file>
+        <file>images/arrow_sans_up.png</file>
+        <file>images/icon.ico</file>
+        <file>images/refresh-page-arrow-button.png</file>
+        <file>images/start-button.png</file>
+        <file>images/media-stop-button.png</file>
+        <file>images/motor.png</file>
+        <file>images/load.png</file>
+        <file>images/save.png</file>
+        <file>images/record.png</file>
+        <file>images/record_play.png</file>
+    </qresource>
+</RCC>
